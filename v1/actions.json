@@ -1,0 +1,18 @@
+{
+    "music": {
+        "function": "play_music",
+        "parameters": []
+    },
+    "joke": {
+        "function": "tell_joke",
+        "parameters": []
+    },
+    "date": {
+        "function": "get_date",
+        "parameters": []
+    },
+    "time": {
+        "function": "get_time",
+        "parameters": []
+    }
+}
