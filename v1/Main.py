@@ -7,6 +7,7 @@ import speech_recognition as sr
 import pyttsx3
 import actionsList
 
+# kFLFBx9T7XJmrr3p2F/fmAj+8DS8GqnKeq/TOIAPcuI=
 # Initialize the TTS engine
 tts_engine = pyttsx3.init()
 
